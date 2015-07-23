@@ -1,4 +1,5 @@
 #Practical Numerical Methods with Python
+#Changes made by Piyush Jagasia
 
 A multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. Collaboratively developed by:
 - [Lorena A. Barba](http://lorenabarba.com), George Washington University, USA
